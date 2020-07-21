@@ -1,5 +1,7 @@
+const pkg = require("./package.json");
+
 module.exports = {
-  entry: "./client/src/index.js",
+  entry: "./src/index.js",
   module: {
     rules: [
       {
