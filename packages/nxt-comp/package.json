@@ -1,6 +1,6 @@
 {
-  "name": "@nxt-test/input",
-  "version": "1.8.0",
+  "name": "@nxt-test/core",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "module": "src/index.js",
   "dependencies": {
@@ -15,6 +15,5 @@
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "styled-components": "^5.0.0"
-  },
-  "gitHead": "286b1d5e4a1ba5c5048e96b75c753b5ed7e55b91"
+  }
 }
