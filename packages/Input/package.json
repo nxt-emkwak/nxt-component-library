@@ -1,6 +1,6 @@
 {
   "name": "@nxt-text/input",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "main": "lib/index.js",
   "module": "src/index.js",
   "dependencies": {
