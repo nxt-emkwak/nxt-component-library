@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "nxt-test",
   "private": true,
   "workspaces": [
     "packages/*"
