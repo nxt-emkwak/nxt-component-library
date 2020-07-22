@@ -1,5 +1,5 @@
 {
-  "name": "@nxt-text/input",
+  "name": "@nxt-test/input",
   "version": "1.7.0",
   "main": "lib/index.js",
   "module": "src/index.js",
@@ -16,5 +16,5 @@
     "react-dom": "^16.0.0",
     "styled-components": "^5.0.0"
   },
-  "gitHead": "f345e47c188ab5c6a1c4066ec1af71594d0402f2"
+  "gitHead": "286b1d5e4a1ba5c5048e96b75c753b5ed7e55b91"
 }
