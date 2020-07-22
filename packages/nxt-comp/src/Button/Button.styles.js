@@ -3,7 +3,12 @@ import styled from "styled-components";
 const StyledButton = styled.button`
   min-width: 64px;
   color: #fff;
-  background-color: #eb34a1;
+  background-color: ${(props) =>
+    props.primary
+      ? props.theme.palette.primary.main
+      : props.secondary
+      ? props.theme.palette.secondary.main
+      : "#bdbdbd"};
   font-size: 0.875rem;
   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
   font-weight: 500;
