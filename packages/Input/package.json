@@ -8,10 +8,13 @@
     "react-dom": "latest",
     "styled-components": "latest"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "peerDependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "styled-components": "^5.0.0"
   },
-  "gitHead": "cb6133a26c7df87fada3fac82c6d97c825d4fb60"
+  "gitHead": "3df60f46a5f3f97b504d7b940727d93dcba61024"
 }
