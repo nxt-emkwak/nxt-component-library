@@ -1,5 +1,5 @@
 {
-  "name": "button",
+  "name": "@nxt-text/button",
   "version": "1.3.0",
   "main": "lib/index.js",
   "module": "src/index.js",
