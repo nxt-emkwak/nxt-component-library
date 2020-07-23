@@ -4,10 +4,14 @@ import { ThemeProvider } from "styled-components";
 import theme from "../Theme/Theme";
 import StyledButton from "./Button.styles";
 
-function Button({ primary, secondary, children }) {
+function Button({ className, primary, secondary, children }) {
   return (
     <ThemeProvider theme={theme}>
-      <StyledButton primary={primary} secondary={secondary}>
+      <StyledButton
+        className={className}
+        primary={primary}
+        secondary={secondary}
+      >
         {children}
       </StyledButton>
     </ThemeProvider>
