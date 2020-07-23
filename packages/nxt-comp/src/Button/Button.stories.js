@@ -6,4 +6,4 @@ export default {
   component: Button,
 };
 
-export const Button1 = () => <Button>Default</Button>;
+export const Button1 = () => <Button secondary>Default</Button>;

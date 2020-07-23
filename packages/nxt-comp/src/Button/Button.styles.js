@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 const StyledButton = styled.button`
   min-width: 64px;
-  color: #fff;
+  color: #34dbeb;
   background-color: ${(props) =>
     props.primary
       ? props.theme.palette.primary.main
